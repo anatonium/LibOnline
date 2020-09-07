@@ -21,5 +21,4 @@ bld/
 publish/
 .idea/
 *.sln.iml
-.vs
-/LibOnline/Models
+.vss

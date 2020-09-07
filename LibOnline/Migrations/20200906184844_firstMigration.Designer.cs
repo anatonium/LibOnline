@@ -11,7 +11,7 @@ namespace LibOnline.Migrations
 {
     [DbContext(typeof(LibContext))]
     [Migration("20200906184844_firstMigration")]
-    partial class firstMigration
+    partial class FirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
